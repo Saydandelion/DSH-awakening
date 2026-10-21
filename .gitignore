@@ -1,0 +1,9 @@
+# Machine-specific runtime settings
+/config.json
+
+# Local logs may contain machine paths and diagnostics
+/app.log
+/app.log.old
+
+# User-specific Windows shortcuts
+*.lnk
